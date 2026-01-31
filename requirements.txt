@@ -1,0 +1,9 @@
+streamlit>=1.32
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+scipy>=1.11
+sentence-transformers>=3.0.0
+torch>=2.5.0
+openai>=1.50.0
+python-dotenv>=1.0.1
