@@ -1,4 +1,6 @@
 # NLP Project - Notebooks and Usage
+## App Link: https://sementicengine-imymbla9jrdyfnehxxut4x.streamlit.app
+
 ## LLM Enhancement
 
 This project uses an LLM to **answer user questions based on the retrieved top-K job descriptions** (Option B in the project rubric).
